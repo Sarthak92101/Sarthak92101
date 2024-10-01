@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying in 2nd year **Computer Science Engineering**
 
-- 📫 How to reach **sarthaksharma25702**
+- 📫 How to reach **sarthaksharma25702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
