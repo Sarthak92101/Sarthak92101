@@ -67,6 +67,7 @@
   <img src="https://cdn.simpleicons.org/cursor" height="48" width="48"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/sublimetext" height="48" width="48"/>
+  <img src="https://cdn.simpleicons.org/opencode" height="48" width="48"/>
 </p>
 
 
